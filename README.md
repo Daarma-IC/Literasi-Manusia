@@ -1,5 +1,4 @@
-Abstrak:
-
+Penjelasan Singkat
 Keamanan siber menjadi perhatian utama di era digital yang semakin terhubung, di mana perlindungan data pribadi sangat krusial bagi individu, perusahaan, dan pemerintah. 
 Kejahatan siber, seperti peretasan dan pencurian informasi, terus berkembang seiring kemajuan teknologi, mengakibatkan kerugian finansial dan ancaman terhadap privasi. 
 Cookies, sebagai alat pengumpulan data pengguna, memiliki peran penting dalam meningkatkan pengalaman pengguna, namun juga menimbulkan risiko privasi. 
